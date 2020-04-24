@@ -1,0 +1,14 @@
+D:\СапрРазраб\Plagin\Plagin\bin\Debug\Plagin.exe.config
+D:\СапрРазраб\Plagin\Plagin\bin\Debug\Plagin.exe
+D:\СапрРазраб\Plagin\Plagin\bin\Debug\Plagin.pdb
+D:\СапрРазраб\Plagin\Plagin\bin\Debug\BirdHouse.Library.dll
+D:\СапрРазраб\Plagin\Plagin\bin\Debug\KAPITypes.dll
+D:\СапрРазраб\Plagin\Plagin\bin\Debug\BirdHouse.Library.pdb
+D:\СапрРазраб\Plagin\Plagin\obj\Debug\BirdHouseUI.csprojAssemblyReference.cache
+D:\СапрРазраб\Plagin\Plagin\obj\Debug\Plagin.MainForm.resources
+D:\СапрРазраб\Plagin\Plagin\obj\Debug\Plagin.Properties.Resources.resources
+D:\СапрРазраб\Plagin\Plagin\obj\Debug\BirdHouseUI.csproj.GenerateResource.cache
+D:\СапрРазраб\Plagin\Plagin\obj\Debug\BirdHouseUI.csproj.CopyComplete
+D:\СапрРазраб\Plagin\Plagin\obj\Debug\Plagin.exe
+D:\СапрРазраб\Plagin\Plagin\obj\Debug\Plagin.pdb
+D:\СапрРазраб\Plagin\Plagin\obj\Debug\BirdHouseUI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+D:\СапрРазраб\Plagin\BirdHouse.Library\bin\Debug\BirdHouse.Library.dll
+D:\СапрРазраб\Plagin\BirdHouse.Library\bin\Debug\BirdHouse.Library.pdb
+D:\СапрРазраб\Plagin\BirdHouse.Library\obj\Debug\BirdHouse.csprojAssemblyReference.cache
+D:\СапрРазраб\Plagin\BirdHouse.Library\obj\Debug\BirdHouse.Library.dll
+D:\СапрРазраб\Plagin\BirdHouse.Library\obj\Debug\BirdHouse.Library.pdb
